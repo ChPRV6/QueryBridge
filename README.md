@@ -13,8 +13,8 @@ Built with a clean Tailwind CSS UI and powered by Firebase for authentication, F
 |----------------------------|----------------------------|----------------------------|
 | ![pic4](./public/pic4.jpg) | ![pic5](./public/pic5.jpg) | ![pic6](./public/pic6.jpg) |
 | ![pic7](./public/pic7.jpg) | ![pic8](./public/pic8.jpg) | ![pic9](./public/pic9.jpg) |
-| ![pic10](./public/pic10.jpg) | ![pic11](./public/pic11.jpg) | ![pic12](./public/pic12.jpg) |
-| ![pic13](./public/pic13.jpg) | ![pic14](./public/pic14.jpg) | 
+| ![pic10](./public/pic10.jpg) |![pic12](./public/pic12.jpg) |![pic14](./public/pic14.jpg) |
+| ![pic13](./public/pic13.jpg) | 
 
 _All screenshots are stored locally in the `/public` directory and preview on GitHub._
 
